@@ -10,7 +10,7 @@ The campus is modeled as a weighted graph where:
 The following diagrams were hand-drawn to show a step-by-step understanding of how the algorithm works, including the 3 hash tables (Graph, Costs, Parents) and how they update at each iteration.
 
 <img width="804" height="1512" alt="image" src="https://github.com/user-attachments/assets/a12b9313-1884-47c8-8ae9-cb5cbf85c76f" />
-**Note:** Some iterations show no update — this happens when the newly calculated cost to reach a neighbor is equal to or greater than the cost already recorded. The algorithm only updates when it finds a strictly cheaper path.
+**Note:**- Some iterations show no update — this happens when the newly calculated cost to reach a neighbor is equal to or greater than the cost already recorded. The algorithm only updates when it finds a strictly cheaper path.
 
 ## Reference  
 Bhargava, A. (2024). Grokking Algorithms, 2nd Edition. Manning Publications.  
