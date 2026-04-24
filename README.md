@@ -18,5 +18,4 @@ Note: Some iterations show no update, this happens when the newly calculated cos
 - Accept dynamic user input to choose start and finish points
 
 ## Reference  
-Bhargava, A. (2024). Grokking Algorithms, 2nd Edition. Manning Publications.  
-This project is part of a series of real-world algorithm implementations based on the book.
+Bhargava, A. (2024). Grokking Algorithms, 2nd Edition. Manning Publications.
