@@ -3,10 +3,9 @@ Ever wondered how Waze or Google Maps finds the fastest route to your destinatio
 
 ## Visual Walkthrough  
 The campus is modeled as a weighted graph where:
-Nodes = campus locations
-Edges = paths between locations
-Weights = distance (relative units)
-
+- Nodes = campus locations
+- Edges = paths between locations
+- Weights = distance (relative units)
 
 The following diagrams were hand-drawn to show a step-by-step understanding of how the algorithm works — including the 3 hash tables (Graph, Costs, Parents) and how they update at each iteration.
 
